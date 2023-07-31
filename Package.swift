@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "TestPackage",
-            url: "https://storage.googleapis.com/ios-swift-sdk/DummyPackage-6.zip",
-            checksum: "c86ff901b918f5d91f89ceaf26a1546d65d7ae0c901b781c56ee0c4e0ce7200a"
+            url: "https://storage.googleapis.com/ios-swift-sdk/DummyPackage-7.zip",
+            checksum: "545ec6634819e715ec443fffb3ce1669311c16ea5c112c331fa625210a6a55e3"
         ),
     ]
 )
